@@ -110,7 +110,7 @@
 }
 .main-div2{
 
-    background-image: linear-gradient(to left, rgba(255, 255, 255,0), rgb(255, 255, 255));
+    background-image: linear-gradient(to left, rgb(255, 255, 255,0), rgba(255, 255, 255));
     width: 946px;
     height: 336px;
     padding: 32px 48px 48px;
@@ -137,4 +137,43 @@
     text-align: center;
     width: 1140px;
     height: 775px;
+}
+.div-vid{
+    border: 2px;
+    border-color: solid black;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header4{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.skills-container{
+    display: flex;
+    justify-content: ;
+    gap: 24px;
+}
+
+.skill1{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 76, 30,5% );
+}
+.skill2{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(0, 76, 232,5% );
+}
+.skill3{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 223, 0,5% );
+    
+}
+.a1{
+    color: #0D1321;
 }
